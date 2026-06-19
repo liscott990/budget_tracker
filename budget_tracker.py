@@ -23,3 +23,7 @@ DATA_FILE = "budget_data.json"
 
 
 # -------------------------------------------------------
+# Load transactions from file if it exists
+# -------------------------------------------------------
+def save_data():
+  
