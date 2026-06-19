@@ -25,7 +25,14 @@ I built this as a mini Python project for class. The idea was to make something 
 ## How to run
 1. Make sure Python is installed
 2. Clone or download this repo
-3. Run the program: pyton budget_tracker.py
+3. Run the program:
+   - Open Command Prompt
+   - Navigate to the folder where you saved the file:
+     `bash cd Downloads`, then run it: bash python budget_tracker.py
+5. On Mac:
+   - Open Terminal
+   - Navigate to the folder:
+     `bash cd Downloads`, then run it: bash python3 budget_tracker.py
 ---
 ## Files
 | File                          | Purpose                                                        |
