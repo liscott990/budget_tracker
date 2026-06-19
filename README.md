@@ -27,6 +27,7 @@ I built this as a mini Python project for class. The idea was to make something 
 2. Clone or download this repo
 3. Run the program:
 ```bash
+
 pyton budget_tracker.py
 ---
 ## Files
