@@ -11,7 +11,7 @@ I built this as a mini Python project for class. The idea was to make something 
 - See a full summary
 - Spending breakdown by category
 - Auto saves data to a file so nothing is lost between sessions
-- Export a readable '.txt' report
+- Export a readable `.txt` report
 - Delete transactions by ID
 ---
 ## Concepts used
@@ -26,5 +26,13 @@ I built this as a mini Python project for class. The idea was to make something 
 1. Make sure Python is installed
 2. Clone or download this repo
 3. Run the program:
-'''bash
+```bash
 pyton budget_tracker.py
+---
+## Files
+
+| File                          | Purpose                                                        |
+|-------------------------------|----------------------------------------------------------------|
+| `budget_tracker.py`           | The main program.                                              |
+| `budget_data.json`            | Auto-generates save file                                       |
+| `budget_report_YYY-MM-DD.txt` | Exported report (generated when you choose option 6            |
