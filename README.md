@@ -2,7 +2,7 @@
 Personal budget tracker that lets users add income and expenses, organize them, and look back at their transactions.
 See there your money is going, and save everything so it's there next time you open it.
 ---
-#About
+# About
 I built this as a mini Python project for class. The idea was to make something useful, a program that helps you manage your money without needing an app or spreadsheet. You can log transactions, view a summary of your balance, and export a report as a text file.
 ---
 # Features
