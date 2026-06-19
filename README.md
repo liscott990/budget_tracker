@@ -30,7 +30,6 @@ I built this as a mini Python project for class. The idea was to make something 
 pyton budget_tracker.py
 ---
 ## Files
-
 | File                          | Purpose                                                        |
 |-------------------------------|----------------------------------------------------------------|
 | `budget_tracker.py`           | The main program.                                              |
